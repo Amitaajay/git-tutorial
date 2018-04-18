@@ -1,17 +1,17 @@
 def add2(n1, n2):
-			s = n1 + n2
-			return s
+	s = n1 + n2
+	return s
 
-		print add2(3, 4)
+print add2(3, 4)
 
 def add3(n1, n2, n3):
-		s=n1 + n2 + n3
-		return s 
+	s=n1 + n2 + n3
+	return s 
 
-	print add3(2, 3, 4)
+print add3(2, 3, 4)
 
 def add4(n1, n2, n3, n4):
-		s=n1 + n2 + n3 + n4
-		return s
+	s=n1 + n2 + n3 + n4
+	return s
 	
-	print add4(2, 3, 5, 9)
+print add4(2, 3, 5, 9)
